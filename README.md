@@ -1,5 +1,5 @@
 # test-guru-team
-git clone
-cd repo
-npm install
-gulp dev
+git clone;
+cd repo;
+npm install;
+gulp dev;
